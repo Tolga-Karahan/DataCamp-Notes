@@ -1,0 +1,4 @@
+Ad, Soyad, Maaş, Yaş
+Tolga, Karahan, 4782.37, 26
+Ahmet, Ercan, 14.7, 35
+Eda, Güler, 3.200, 26

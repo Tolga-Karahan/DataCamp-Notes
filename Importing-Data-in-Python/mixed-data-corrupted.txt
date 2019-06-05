@@ -1,0 +1,5 @@
+Ad, Soyad, Maaş, Yaş
+Tolga, Karahan, 4782.37, 26
+# Bu bir komut satırıdır
+Ahmet, Ercan, 14.7, Kayıp
+Eda, Güler, 3.200, 26
